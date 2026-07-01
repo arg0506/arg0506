@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences.;Exploring+Web3+%26+Blockchain.;Open+Source+Contributor.;Always+Learning.+Always+Building.🚀" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8b5cf6&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=fbbf24&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=arg0506&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/arg0506?style=for-the-badge&color=8b5cf6&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/arg0506?style=for-the-badge&color=fbbf24&labelColor=000000" />
 </p>
 
 </div>
@@ -80,9 +80,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arg0506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg0506&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=arg0506&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arg0506&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arg0506&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/arg0506/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
