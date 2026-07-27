@@ -100,12 +100,14 @@ Modern Web3 wallet dashboard built on Stellar Testnet.
 ---
 ## 💼 Current Focus
 
-```text
+
 🔭 Building Privacy-Preserving Web3 Applications
 🌱 Learning Backend Development & System Design
 ⚡ Exploring Zero-Knowledge Technology
 🚀 Building Startup Ideas
 🎯 Preparing for Software Engineering Internships
+
+------
 
 # 📊 GitHub Analytics
 
