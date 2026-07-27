@@ -1,179 +1,155 @@
 <div align="center">
 
-# ⚡ ARPAN ROY ⚡
+# 👋 Hi, I'm Arpan Roy
 
-### Full Stack Developer • Web3 Enthusiast • Open Source Contributor
+### Frontend Developer • Blockchain Builder • Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences.;Exploring+Web3+%26+Blockchain.;Open+Source+Contributor.;Always+Learning.+Always+Building.🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Blockchain+Developer;Frontend+Engineer;Building+in+Public;Always+Learning+Something+New" alt="Typing Animation"/>
+
+<br>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=arg0506&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/arg0506?style=for-the-badge&color=8b5cf6&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/arg0506?style=for-the-badge&color=fbbf24&labelColor=000000" />
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
 </p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
-```txt
-> Building the future, one commit at a time.
-```
+I'm a developer passionate about building beautiful user experiences and solving real-world problems with modern technologies.
 
-💻 Full Stack Developer
-
-🌐 Passionate about Web3 & Blockchain
-
-🚀 Building impactful developer tools & applications
-
-🤝 Open Source Contributor
-
-📚 Always learning new technologies
-
-☕ Turning coffee into code
+- 🌱 Currently learning **React, Backend Development & Blockchain**
+- 🌙 Exploring **Midnight** & **Stellar**
+- 🚀 Building **Web3** applications
+- 💡 Interested in Startups & Open Source
+- 🎯 Goal: Build products used by thousands of users
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Featured Projects
 
-## Frontend
+## 🗳️ Voxis
+
+Privacy-preserving governance platform powered by Zero-Knowledge Proofs on the Midnight Network.
+
+**Highlights**
+
+- Zero-Knowledge Voting
+- Compact Smart Contracts
+- Modern React UI
+- Anonymous Governance
+
+---
+
+## 🌌 Orion
+
+Modern Web3 wallet dashboard built on Stellar Testnet.
+
+**Highlights**
+
+- Freighter Wallet Integration
+- Real-Time XLM Dashboard
+- Transaction Management
+- Firebase Authentication
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
 </p>
 
-## Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
 </p>
 
-## Database
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 </p>
 
-## Languages
+### Blockchain
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,dart" />
+<img src="https://skillicons.dev/icons?i=solidity"/>
 </p>
 
-## DevOps & Tools
+**Also Exploring**
+
+- Midnight
+- Stellar
+- Smart Contracts
+- Zero-Knowledge Applications
+
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
-</p>
-
-## Web3
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker"/>
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arg0506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg0506&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
+<p align="center">
 
-# 🔥 GitHub Streak
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arg0506&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📌 What I'm Working On
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arg0506&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arg0506&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 Currently Working On
-
-- ⚡ Full Stack Applications
-- 🌐 Web3 Projects
-- 🤖 AI-powered Developer Tools
-- 💻 Open Source Contributions
-
----
-
-# 🌱 Currently Learning
-
-- Advanced System Design
-- Smart Contract Development
-- Cloud Computing
-- DevOps
-- AI Engineering
+- 🔹 Privacy-first Web3 Applications
+- 🔹 Frontend Engineering
+- 🔹 React Ecosystem
+- 🔹 Blockchain Development
+- 🔹 Open Source Contributions
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Contribute to major open-source projects
-- 🌐 Build production-ready Web3 applications
-- 💼 Land a software engineering role
-- ⭐ Grow an active developer community
-- 📚 Learn something new every day
+- 🚀 Build impactful open-source projects
+- 🌙 Contribute to Midnight ecosystem
+- ⚛️ Master React & Backend Development
+- 💼 Land a Software Engineering Internship
+- 🌍 Build products that solve real problems
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<p align="left">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/YOUR_X">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
@@ -185,18 +161,12 @@
 
 ---
 
-# 🎵 Currently Listening To
-
-> Connect your Spotify account using **spotify-github-profile** and replace this section with your generated widget.
-
----
-
 <div align="center">
 
-## ⚡ "Code. Create. Contribute. Repeat."
+## 💡 Philosophy
 
-### ⭐ Thanks for visiting my profile!
+> *"Code with curiosity. Build with purpose. Learn continuously."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=120&section=footer"/>
+⭐ Thanks for visiting my profile!
 
 </div>
