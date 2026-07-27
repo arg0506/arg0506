@@ -9,8 +9,8 @@
 <br>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/arg0506?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/arg0506?affiliations=OWNER&style=for-the-badge"></a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
 </p>
 
@@ -103,15 +103,15 @@ Modern Web3 wallet dashboard built on Stellar Testnet.
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arg0506E&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=arg0506&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg0506&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -141,7 +141,7 @@ Modern Web3 wallet dashboard built on Stellar Testnet.
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arg0506">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -153,7 +153,7 @@ Modern Web3 wallet dashboard built on Stellar Testnet.
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:arpanroy0506@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
