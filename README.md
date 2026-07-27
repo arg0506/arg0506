@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/banner.png" width="900"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Arpan Roy
 
 ### Frontend Developer • Blockchain Builder • Open Source Enthusiast
