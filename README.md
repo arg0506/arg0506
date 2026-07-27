@@ -60,6 +60,15 @@ Modern Web3 wallet dashboard built on Stellar Testnet.
 
 # 🛠 Tech Stack
 
+## 📊 Weekly Development Breakdown
+
+
+React           ████████████░░░ 40%
+JavaScript      ████████░░░░░░░ 25%
+Blockchain      ██████░░░░░░░░░ 20%
+Backend         ████░░░░░░░░░░░ 10%
+Reading         ██░░░░░░░░░░░░░ 5%
+
 ### Languages
 
 <p>
