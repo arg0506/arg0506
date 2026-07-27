@@ -219,7 +219,7 @@ Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp f
 
 # 🎸 Beyond Code
 
-Co-founder of **The Midnight Echoes**, a three-member indie-pop band based in Kolkata — when I'm not shipping code, I'm writing songs and designing artwork inspired by Bengali folk traditions.
+Co-founder of vertex a ai powered decentralised exchange platform on Stellar 
 
 ---
 
