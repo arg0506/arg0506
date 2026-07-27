@@ -162,7 +162,7 @@ Reading          ██░░░░░░░░░░░░░ 8%
 Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp for technical interviews.
 
 <p align="center">
-<img src="https://leetcode-stats-badge.herokuapp.com/user/pvkW79ZU5N
+<img src="https://leetcode-stats-badge.herokuapp.com/user/Arpan Roy
 "/>
 </p>
 
