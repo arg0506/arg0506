@@ -28,9 +28,10 @@
 
 I'm an engineering student and builder who works across **AI/ML, Web3, and full-stack development** — turning hackathon ideas into shipped products.
 
-- 🎓 B.Tech, Government College of Engineering and Leather Technology (GCELT), Kolkata — Class of 2029
+- 🎓 B.Tech, Government College of Engineering and Leather Technology (GCELT), Kolkata — Class of 2027
 - 🧠 Building **AI-powered applications** — from computer vision to conversational agents
 - ⛓️ Shipping on **Stellar / Soroban** — tokenized real-world assets, DeFi, and compliance tooling
+- 🎨 Weaving **Bengali folk art traditions** (Pattachitra, Alpona, Kalighat) into product design and branding
 - 🏆 Active in hackathons, ambassador programs, and dev workshops
 - 🎯 Goal: land a software engineering internship and build products people actually use
 
@@ -161,7 +162,8 @@ Reading          ██░░░░░░░░░░░░░ 8%
 Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp for technical interviews.
 
 <p align="center">
-<img src="https://leetcode-stats-badge.herokuapp.com/user/YOUR_LEETCODE_USERNAME"/>
+<img src="https://leetcode-stats-badge.herokuapp.com/user/pvkW79ZU5N
+"/>
 </p>
 
 ---
@@ -169,20 +171,20 @@ Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp f
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?arg0506&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?arg0506&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arg0506&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=arg0506&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?arg0506&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg0506&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?arg0506&theme=tokyo-night&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arg0506&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?arg0506&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arg0506&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -190,7 +192,7 @@ Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp f
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arg0506/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake.svg"/>
 </p>
 
 > ℹ️ This animates once you add the [snake workflow](https://github.com/Platane/snk) to this repo's GitHub Actions.
