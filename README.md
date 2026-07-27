@@ -11,7 +11,7 @@
 <p>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/followers/arg0506?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/github/stars/arg0506?affiliations=OWNER&style=for-the-badge"></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=arg0506&style=for-the-badge">
 </p>
 
 </div>
