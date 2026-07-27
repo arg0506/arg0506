@@ -190,7 +190,7 @@ Working through **Striver's A2Z DSA Sheet** and **NeetCode 150** to stay sharp f
 # 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/arg0506/output/github-contribution-grid-snake.svg"/>
 </p>
 
 > ℹ️ This animates once you add the [snake workflow](https://github.com/Platane/snk) to this repo's GitHub Actions.
