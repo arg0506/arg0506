@@ -28,7 +28,7 @@
 
 I'm an engineering student and builder who works across **AI/ML, Web3, and full-stack development** — turning hackathon ideas into shipped products.
 
-- 🎓 B.Tech, Government College of Engineering and Leather Technology (GCELT), Kolkata — Class of 2027
+- 🎓 B.Tech, Government College of Engineering and Leather Technology (GCELT), Kolkata — Class of 2029
 - 🧠 Building **AI-powered applications** — from computer vision to conversational agents
 - ⛓️ Shipping on **Stellar / Soroban** — tokenized real-world assets, DeFi, and compliance tooling
 - 🎨 Weaving **Bengali folk art traditions** (Pattachitra, Alpona, Kalighat) into product design and branding
