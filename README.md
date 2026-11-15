@@ -207,6 +207,10 @@ A **community waitlist campaign** where each member gets a train-ticket identity
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arg0506&bg_color=0b0b0b&color=a8a6a1&line=f2f0eb&point=f2f0eb&area=true&area_color=2a2a2a&hide_border=true&custom_title=Contribution%20Topography" alt="Activity graph"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake-mono.svg" alt="Contribution snake"/>
+</p>
+
 <br/>
 
 <sub><code>§ 06 — CONTACT</code></sub>
