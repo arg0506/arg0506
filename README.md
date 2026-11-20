@@ -1,234 +1,137 @@
 <!--
-  ARPAN ROY · PORTFOLIO · 2026 / VOL. 01
-  Profile README styled to match arpanroy05.vercel.app.
-  Keep the /assets folder in this repo — header.svg and footer.svg live there.
+  ARPAN ROY · PROFILE · VOL. 02 — "Kolkata night"
+  Alpona gold, sindoor red & circuit teal on deep indigo.
+  Static illustrations live in /assets. Live cards (stats + snake) are rebuilt
+  every 12h by .github/workflows/profile.yml and served from the `output` branch.
 -->
 
 <p align="center">
   <a href="https://arpanroy05.vercel.app/">
-    <img src="./assets/header.svg" width="100%" alt="Arpan Roy — Building what comes next, one idea at a time."/>
+    <img src="./assets/hero.svg" width="100%" alt="Arpan Roy — Building what comes next, one idea at a time. AI engineer in the making · Web3 · Full-stack · Founder @ Automa"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://arpanroy05.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-↗-0b0b0b?style=for-the-badge&labelColor=0b0b0b&color=1a1a1a" alt="Portfolio"/></a>
-  <a href="https://arpanroy05.vercel.app/Arpanroy_resumeup.pdf"><img src="https://img.shields.io/badge/RESUME-PDF-0b0b0b?style=for-the-badge&labelColor=0b0b0b&color=1a1a1a" alt="Resume"/></a>
-  <a href="https://www.linkedin.com/in/arpan-roy-75955031a"><img src="https://img.shields.io/badge/LINKEDIN-↗-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb&labelColor=0b0b0b&color=1a1a1a" alt="LinkedIn"/></a>
-  <a href="https://x.com/arg05_06"><img src="https://img.shields.io/badge/X-@arg05__06-0b0b0b?style=for-the-badge&logo=x&logoColor=f2f0eb&labelColor=0b0b0b&color=1a1a1a" alt="X"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arg0506&label=VIEWS&color=1a1a1a&style=for-the-badge" alt="views"/>
+  <a href="https://arpanroy05.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-↗-121A33?style=for-the-badge&labelColor=0B1020&logo=vercel&logoColor=E9B44C" alt="Portfolio"/></a>
+  <a href="https://arpanroy05.vercel.app/Arpanroy_resumeup.pdf"><img src="https://img.shields.io/badge/RESUME-PDF-121A33?style=for-the-badge&labelColor=0B1020&logo=readdotcv&logoColor=E9B44C" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/arpan-roy-75955031a"><img src="https://img.shields.io/badge/LINKEDIN-↗-121A33?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn"/></a>
+  <a href="https://x.com/arg05_06"><img src="https://img.shields.io/badge/X-@arg05__06-121A33?style=for-the-badge&labelColor=0B1020&logo=x&logoColor=F5ECDC" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=arg0506&label=VISITORS&color=E4572E&style=for-the-badge" alt="Profile visitors"/>
 </p>
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<sub><code>§ 01 — ABOUT</code></sub>
+<!-- § 01 — ABOUT -->
+<p align="center"><img src="./assets/sections/01.svg" width="100%" alt="§ 01 — About: Turning ideas into products. And people into communities."/></p>
 
-## Turning ideas into products. *And people into communities.*
+I'm a B.Tech student at **Government College of Engineering & Leather Technology, Kolkata** (2025 – 2029), building where **AI agents, Web3 and community** overlap. I like taking an idea from zero to a working product — and I care as much about the people around a product as the code inside it. The long game: **AI engineering**.
 
-I'm a B.Tech student at **Government College of Engineering & Leather Technology, Kolkata** (2025 – 2029), working where **Web3, AI agents and community** overlap. I like taking an idea from zero to a working product, and I care as much about the people around a product as the code inside it.
+<p align="center"><img src="./assets/about.svg" width="100%" alt="Terminal: whoami — Arpan Roy, B.Tech @ GCELT Kolkata. Now: Founder & Founding Engineer @ Automa, Growth @ Nundina Finance, Stellar + Midnight Ambassador, AWS SBG Lead. Traits: Builder, Community, Curious."/></p>
 
-|  |  |  |
-|:--|:--|:--|
-| **◐ Builder**<br/><sub>I build products that solve real problems, from idea to shipped.</sub> | **◑ Community**<br/><sub>I believe in people and good communities. I start clubs, run events and organize hackathons.</sub> | **◒ Curious**<br/><sub>I'm always learning and improving: DeFi, ZK, agents, growth.</sub> |
+<p align="center"><img src="./assets/tracks.svg" width="100%" alt="Three tracks — AI/ML: agents, LLM apps and voice AI. Web3: DeFi, wallets, ZK and agent payments. Full-stack: Next.js to Postgres."/></p>
 
-```txt
-LOCATION    Kolkata, IN · 22.57° N, 88.36° E · GMT+5:30
-NOW         Founder & Founding Engineer @ Automa
-ALSO        Growth @ Nundina Finance · Stellar & Midnight Ambassador
-STATUS      Available for select projects & roles
-```
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<br/>
+<!-- § 02 — WORK -->
+<p align="center"><img src="./assets/sections/02.svg" width="100%" alt="§ 02 — Work: Ideas in progress. Built with intention."/></p>
 
-<sub><code>§ 02 — WORK</code></sub>
+<p align="center">
+  <a href="https://arpanroy05.vercel.app/"><img src="./assets/projects/automa.svg" width="49%" alt="Automa — programmable money for autonomous AI agents"/></a>
+  <a href="https://arpanroy05.vercel.app/"><img src="./assets/projects/nundina.svg" width="49%" alt="Nundina Finance — private-credit secondary market"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/arg0506/Voxis"><img src="./assets/projects/voxis.svg" width="49%" alt="Voxis — zero-knowledge voting on Midnight"/></a>
+  <a href="https://github.com/arg0506/Devpulse"><img src="./assets/projects/devpulse.svg" width="49%" alt="DevPulse — real-time developer workspace with AI Agent Studio"/></a>
+</p>
+<p align="center">
+  <a href="https://arpanroy05.vercel.app/"><img src="./assets/projects/vertex.svg" width="49%" alt="Vertex — DEX on Stellar powered by Soroban"/></a>
+  <a href="https://github.com/arg0506/MonadArena"><img src="./assets/projects/monad-arena.svg" width="49%" alt="Monad Arena — 2D multiplayer crystal-collecting game"/></a>
+</p>
 
-## Ideas in progress. *Built with intention.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 01 · FEATURED</code></sub>
-### Automa ↗
-Programmable financial infrastructure for **autonomous AI agents**. Agents can receive, hold and spend digital assets under programmable rules and human-set controls. It combines wallets, spending policies, transaction execution and monitoring in one layer.
-
-<sub>`WEB3` · `AI` · `AGENTS` · `PAYMENTS`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 02</code></sub>
-### Nundina Finance ↗
-A **private-credit secondary market**. I work on the growth team, covering brand, content, community and social strategy for a Web3 financial product.
-
-<sub>`WEB3` · `DEFI` · `COMMUNITY`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 03</code></sub>
-### Vertex ↗
-A **decentralized exchange on Stellar** focused on fast, streamlined onchain trading. It covers swap routing, order books and liquidity pools through Soroban.
-
-<sub>`STELLAR` · `SOROBAN` · `DEFI`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 04</code></sub>
-### Kairo ↗
-An exploration of **liquidity infrastructure for NFT markets** on Monad.
-
-<sub>`DEFI` · `NFT` · `MONAD`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 05</code></sub>
-### [DevPulse ↗](https://github.com/arg0506/Devpulse)
-A collaborative workspace for developers that combines **real-time chat**, a node-based **AI Agent Studio** (Gemini), a live **co-design sketchboard** and a browser terminal.
-
-<sub>`REACT 19` · `TYPESCRIPT` · `SOCKET.IO` · `PRISMA` · `POSTGRES`</sub><br/>
-<sub>[Live demo](https://devpulse-lake-kappa.vercel.app) · [Source](https://github.com/arg0506/Devpulse)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<sub><code>FIG. 06</code></sub>
-### Nundina Express ↗
-A **community waitlist campaign** where each member gets a train-ticket identity. It's a growth experiment in making signing up feel like boarding.
-
-<sub>`COMMUNITY` · `CAMPAIGN` · `WEB3`</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub><a href="https://devpulse-lake-kappa.vercel.app">DevPulse live demo</a> · <a href="https://github.com/arg0506/Voxis">Voxis source</a> · <a href="https://github.com/arg0506/MonadArena">Monad Arena source</a> · <a href="https://arpanroy05.vercel.app/">everything else on the portfolio</a></sub>
+</p>
 
 <details>
-<summary><b>More from the archive →</b></summary>
+<summary><b>✦ More from the archive</b></summary>
 <br/>
 
 | Fig. | Project | Notes | Tags |
 |:--:|:--|:--|:--|
-| 07 | **[Monad Arena](https://github.com/arg0506/MonadArena)** | 2D multiplayer crystal-collecting browser game | `MONAD` `GAME` |
-| 08 | **Voxis** | Privacy-preserving governance with ZK proofs | `MIDNIGHT` `ZK` |
-| 09 | **Orion** | Web3 wallet dashboard | `STELLAR` |
-| 10 | **SurChain** | Music royalty & ownership onchain | `STELLAR` |
-| 11 | **KrishiMitra** | AI farming assistant for Bengali-speaking farmers | `AI` `VOICE` |
-| 12 | **CarbonLens AI** | Trust scoring & fraud detection for carbon credits | `POLYGON` `AI` |
-| 13 | **[Portfolio](https://github.com/arg0506/Portfolio-website)** | The earlier HTML/CSS portfolio | `WEB` |
+| 07 | **[BidForge](https://github.com/arg0506/BidForge)** | Decentralized auctions with live bids & multi-wallet support | `WEB3` `TS` |
+| 08 | **[Orion](https://github.com/arg0506/Orion)** | Web3 wallet dashboard on Stellar Testnet with Freighter | `STELLAR` |
+| 09 | **[Flowpilot](https://github.com/arg0506/Flowpilot)** | AI workflow automation with Soroban contracts & signed audit logs | `AI` `SOROBAN` |
+| 10 | **[Qilo](https://github.com/arg0506/Qilo)** | Real-time multiplayer quiz app | `FLUTTER` `NESTJS` `SUPABASE` |
+| 11 | **[Nutri-Mind](https://github.com/arg0506/Nutri-Mind)** | AI nutrition assistant with context-aware recommendations | `AI` |
+| 12 | **Kairo** | Liquidity infrastructure for NFT markets | `MONAD` `DEFI` |
+| 13 | **Nundina Express** | Waitlist campaign — every member gets a train-ticket identity | `COMMUNITY` |
+| 14 | **KrishiMitra** | AI farming assistant for Bengali-speaking farmers | `AI` `VOICE` |
+| 15 | **SurChain** | Music royalties & ownership onchain | `STELLAR` |
+| 16 | **CarbonLens AI** | Trust scoring & fraud detection for carbon credits | `POLYGON` `AI` |
+| 17 | **[Portfolio v1](https://github.com/arg0506/Portfolio-website)** | The earlier HTML/CSS portfolio | `WEB` |
 
 </details>
 
-<br/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<sub><code>§ 03 — EXPERIENCE</code></sub>
+<!-- § 03 — EXPERIENCE -->
+<p align="center"><img src="./assets/sections/03.svg" width="100%" alt="§ 03 — Experience: The journey so far. And what's next."/></p>
 
-## The journey so far. *And what's next.*
+<p align="center"><img src="./assets/journey.svg" width="100%" alt="Timeline: Founder & Founding Engineer @ Automa (2024–now); Growth Team @ Nundina Finance (2024–now); Ambassador @ Stellar Development Foundation (Jul 2026–now); Ambassador @ Midnight (Jul 2026–now); Lead @ AWS Student Builder Group, GCELT (Aug 2026–now); Founder @ Nakshatra Coding Club; Organizer @ College Hackathon; B.Tech @ GCELT (2025–2029); Developer & Creator, freelance (2023–2024)."/></p>
 
-| Period | Role | Where | |
-|:--|:--|:--|:--|
-| `2024 — NOW` | **Founder & Founding Engineer** | Automa | <sub>Agents · Payments · Web3</sub> |
-| `2024 — NOW` | **Growth Team** | Nundina Finance | <sub>Community · Content · Brand</sub> |
-| `JUL 2026 — NOW` | **Ambassador** | Stellar Development Foundation | <sub>Developer & student engagement</sub> |
-| `JUL 2026 — NOW` | **Ambassador** | Midnight | <sub>Privacy-chain education & campus events</sub> |
-| `AUG 2026 — NOW` | **Lead** | AWS Student Builder Group, GCELT | <sub>Workshops on AWS, AI & emerging tech</sub> |
-| `—` | **Founder** | Nakshatra Coding Club | <sub>Campus coding community</sub> |
-| `—` | **Organizer** | College Hackathon | <sub>Built & ran the event</sub> |
-| `2023 — 2024` | **Developer & Creator** | Freelance / Independent | <sub>Web3, product & DeFi exploration</sub> |
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-<br/>
+<!-- § 04 — TOOLKIT -->
+<p align="center"><img src="./assets/sections/04.svg" width="100%" alt="§ 04 — Toolkit: Learning. Building. Growing."/></p>
 
-<sub><code>§ 04 — TOOLKIT</code></sub>
-
-## Learning. Building. *Growing.*
-
-<p>
-  <b><sub>CHAINS &nbsp;</sub></b>
-  <img src="https://img.shields.io/badge/Ethereum-0b0b0b?style=flat-square&logo=ethereum&logoColor=f2f0eb" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Stellar-0b0b0b?style=flat-square&logo=stellar&logoColor=f2f0eb" alt="Stellar"/>
-  <img src="https://img.shields.io/badge/Midnight-0b0b0b?style=flat-square" alt="Midnight"/>
-  <img src="https://img.shields.io/badge/Monad-0b0b0b?style=flat-square" alt="Monad"/>
-  <img src="https://img.shields.io/badge/DeFi%20·%20dApps-0b0b0b?style=flat-square" alt="DeFi"/>
-</p>
-<p>
-  <b><sub>CONTRACTS &nbsp;</sub></b>
-  <img src="https://img.shields.io/badge/Solidity-0b0b0b?style=flat-square&logo=solidity&logoColor=f2f0eb" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Soroban-0b0b0b?style=flat-square" alt="Soroban"/>
-  <img src="https://img.shields.io/badge/Hardhat-0b0b0b?style=flat-square&logo=hardhat&logoColor=f2f0eb" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/MetaMask-0b0b0b?style=flat-square&logo=metamask&logoColor=f2f0eb" alt="MetaMask"/>
-  <img src="https://img.shields.io/badge/Freighter-0b0b0b?style=flat-square" alt="Freighter"/>
-</p>
-<p>
-  <b><sub>FRONTEND &nbsp;</sub></b>
-  <img src="https://img.shields.io/badge/Next.js-0b0b0b?style=flat-square&logo=nextdotjs&logoColor=f2f0eb" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react&logoColor=f2f0eb" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind-0b0b0b?style=flat-square&logo=tailwindcss&logoColor=f2f0eb" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/JavaScript-0b0b0b?style=flat-square&logo=javascript&logoColor=f2f0eb" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-0b0b0b?style=flat-square&logo=typescript&logoColor=f2f0eb" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vite-0b0b0b?style=flat-square&logo=vite&logoColor=f2f0eb" alt="Vite"/>
-</p>
-<p>
-  <b><sub>BACKEND &nbsp;</sub></b>
-  <img src="https://img.shields.io/badge/Node.js-0b0b0b?style=flat-square&logo=nodedotjs&logoColor=f2f0eb" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-0b0b0b?style=flat-square&logo=express&logoColor=f2f0eb" alt="Express"/>
-  <img src="https://img.shields.io/badge/Supabase-0b0b0b?style=flat-square&logo=supabase&logoColor=f2f0eb" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-0b0b0b?style=flat-square&logo=firebase&logoColor=f2f0eb" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0b0b0b?style=flat-square&logo=postgresql&logoColor=f2f0eb" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0b0b0b?style=flat-square" alt="REST"/>
-</p>
-<p>
-  <b><sub>LANGUAGES &nbsp;</sub></b>
-  <img src="https://img.shields.io/badge/Python-0b0b0b?style=flat-square&logo=python&logoColor=f2f0eb" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c&logoColor=f2f0eb" alt="C"/>
-  <img src="https://img.shields.io/badge/Git-0b0b0b?style=flat-square&logo=git&logoColor=f2f0eb" alt="Git"/>
-  <img src="https://img.shields.io/badge/AI%20×%20Blockchain-0b0b0b?style=flat-square" alt="AI x Blockchain"/>
-</p>
-
-<br/>
-
-<sub><code>§ 05 — SIGNAL</code></sub>
-
-## Better products. *Bigger impact.*
+<p align="center"><img src="./assets/toolkit.svg" width="100%" alt="Toolkit orbits — Chains: Ethereum, Stellar, Midnight, Monad, Base, NEAR. Contracts: Solidity, Soroban, Compact, Hardhat, Rust, Freighter, MetaMask. Frontend: Next.js, React, TypeScript, Tailwind, Vite, Flutter, JavaScript, Framer Motion. Backend & AI: Node.js, Express, NestJS, Supabase, PostgreSQL, Firebase, Python, Gemini, AWS, C, Git."/></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arg0506&show_icons=true&hide_border=true&count_private=true&bg_color=0b0b0b&title_color=f2f0eb&text_color=a8a6a1&icon_color=f2f0eb&ring_color=f2f0eb&custom_title=Arpan%20Roy%20%C2%B7%20GitHub" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg0506&layout=compact&hide_border=true&langs_count=6&bg_color=0b0b0b&title_color=f2f0eb&text_color=a8a6a1" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ts,js,react,nextjs,tailwind,vite,flutter,nodejs,express,nestjs,supabase,postgres,firebase,python,aws,git&theme=dark&perline=18" alt="Tech icons"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+<!-- § 05 — SIGNAL -->
+<p align="center"><img src="./assets/sections/05.svg" width="100%" alt="§ 05 — Signal: Better products. Bigger impact."/></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arg0506/arg0506/output/stats.svg" width="100%" alt="GitHub stats — contributions, commits, PRs, stars, repos, followers, contribution topography and languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arg0506&hide_border=true&background=0B0B0B&ring=F2F0EB&fire=F2F0EB&currStreakNum=F2F0EB&sideNums=F2F0EB&currStreakLabel=F2F0EB&sideLabels=A8A6A1&dates=6E6C68&stroke=2A2A2A" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=arg0506&hide_border=true&border_radius=18&background=0B1020&ring=E9B44C&fire=E4572E&currStreakNum=F5ECDC&sideNums=F5ECDC&currStreakLabel=E9B44C&sideLabels=8C93B0&dates=8C93B0&stroke=2A3566" width="100%" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arg0506&bg_color=0b0b0b&color=a8a6a1&line=f2f0eb&point=f2f0eb&area=true&area_color=2a2a2a&hide_border=true&custom_title=Contribution%20Topography" alt="Activity graph"/>
+  <img src="https://raw.githubusercontent.com/arg0506/arg0506/output/snake-alpona.svg" width="100%" alt="Contribution snake eating the commit grid"/>
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+<!-- § 06 — BEYOND CODE -->
+<p align="center"><img src="./assets/sections/06.svg" width="100%" alt="§ 06 — Beyond code: Off the clock. Still making things."/></p>
+
+<p align="center"><img src="./assets/offclock.svg" width="100%" alt="Off the clock — co-founder of indie-pop band The Midnight Echoes (Bengali folk meets modern youth culture); into space, mathematics and Bengali heritage art: Pattachitra, Alpona, Kalighat."/></p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+<!-- § 07 — CONTACT -->
+<p align="center"><img src="./assets/sections/07.svg" width="100%" alt="§ 07 — Contact: Let's build something. Together."/></p>
+
+<p align="center">
+  Open to select projects and roles, hackathon teams, and conversations about<br/>
+  <b>AI agents</b>, <b>DeFi</b> and <b>community growth</b>. Kolkata · GMT+5:30.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/arg0506/arg0506/output/github-contribution-grid-snake-mono.svg" alt="Contribution snake"/>
-</p>
-
-<br/>
-
-<sub><code>§ 06 — CONTACT</code></sub>
-
-## Let's build something. *Together.*
-
-I'm open to select projects and roles, hackathon teams, and conversations about agents, DeFi and community growth.
-
-<p>
-  <a href="mailto:arpanroy0506@gmail.com"><img src="https://img.shields.io/badge/EMAIL-arpanroy0506@gmail.com-0b0b0b?style=for-the-badge&logo=gmail&logoColor=f2f0eb&labelColor=0b0b0b&color=1a1a1a" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/arpan-roy-75955031a"><img src="https://img.shields.io/badge/LINKEDIN-arpan--roy-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb&labelColor=0b0b0b&color=1a1a1a" alt="LinkedIn"/></a>
-  <a href="https://x.com/arg05_06"><img src="https://img.shields.io/badge/X-@arg05__06-0b0b0b?style=for-the-badge&logo=x&logoColor=f2f0eb&labelColor=0b0b0b&color=1a1a1a" alt="X"/></a>
+  <a href="mailto:arpanroy0506@gmail.com"><img src="https://img.shields.io/badge/EMAIL-arpanroy0506@gmail.com-121A33?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=E4572E" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/arpan-roy-75955031a"><img src="https://img.shields.io/badge/LINKEDIN-arpan--roy-121A33?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=2EC4B6" alt="LinkedIn"/></a>
+  <a href="https://x.com/arg05_06"><img src="https://img.shields.io/badge/X-@arg05__06-121A33?style=for-the-badge&labelColor=0B1020&logo=x&logoColor=F5ECDC" alt="X"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Less noise. More impact."/>
+  <img src="./assets/footer.svg" width="100%" alt="Less noise. More impact. — আবার দেখা হবে (see you again)"/>
 </p>
-
-<p align="center"><sub><code>ARPAN ROY · SOFTWARE ENGINEER & BUILDER · KOLKATA, IN · VOL. 01</code></sub></p>
