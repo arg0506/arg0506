@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img"><title>GitHub stats for arg0506</title>
+<defs><style>
+.serif{font-family:Georgia, 'Times New Roman', Times, serif}.mono{font-family:'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace;letter-spacing:.14em;text-transform:uppercase}.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif}
+.draw{stroke-dasharray:2000;stroke-dashoffset:2000;animation:dw 2.6s ease-out .3s forwards}@keyframes dw{to{stroke-dashoffset:0}}
+.fade{animation:fd 1.4s ease 1s both}@keyframes fd{from{opacity:0}to{opacity:1}}
+.rise{animation:rs .8s ease both}@keyframes rs{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.ping{animation:pg 2s ease-out infinite}@keyframes pg{0%{r:4;opacity:.9}100%{r:16;opacity:0}}
+.grow{animation:gr 1.2s ease both}@keyframes gr{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<radialGradient id="bg" cx="50%" cy="0%" r="120%"><stop offset="0" stop-color="#1A2347"/><stop offset=".65" stop-color="#0B1020"/></radialGradient>
+<linearGradient id="ar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E9B44C" stop-opacity=".45"/><stop offset="1" stop-color="#E9B44C" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+<rect x="10" y="10" width="1180" height="320" rx="12" fill="none" stroke="#E9B44C" stroke-opacity=".22"/>
+<g class="rise" style="animation-delay:0.00s">
+<text x="50" y="70" class="mono" font-size="10.5" fill="#8C93B0">CONTRIBUTIONS · 12 MO</text>
+<text x="50" y="114" class="serif" font-size="40" fill="#E9B44C" font-style="italic">289</text>
+<line x1="50" y1="128" x2="200" y2="128" stroke="#2A3566"/>
+</g>
+<g class="rise" style="animation-delay:0.12s">
+<text x="240" y="70" class="mono" font-size="10.5" fill="#8C93B0">COMMITS · 12 MO</text>
+<text x="240" y="114" class="serif" font-size="40" fill="#F5ECDC">260</text>
+<line x1="240" y1="128" x2="390" y2="128" stroke="#2A3566"/>
+</g>
+<g class="rise" style="animation-delay:0.24s">
+<text x="50" y="162" class="mono" font-size="10.5" fill="#8C93B0">PULL REQUESTS</text>
+<text x="50" y="206" class="serif" font-size="40" fill="#F5ECDC">7</text>
+<line x1="50" y1="220" x2="200" y2="220" stroke="#2A3566"/>
+</g>
+<g class="rise" style="animation-delay:0.36s">
+<text x="240" y="162" class="mono" font-size="10.5" fill="#8C93B0">STARS EARNED</text>
+<text x="240" y="206" class="serif" font-size="40" fill="#E9B44C">5</text>
+<line x1="240" y1="220" x2="390" y2="220" stroke="#2A3566"/>
+</g>
+<g class="rise" style="animation-delay:0.48s">
+<text x="50" y="254" class="mono" font-size="10.5" fill="#8C93B0">PUBLIC REPOS</text>
+<text x="50" y="298" class="serif" font-size="40" fill="#F5ECDC">20</text>
+<line x1="50" y1="312" x2="200" y2="312" stroke="#2A3566"/>
+</g>
+<g class="rise" style="animation-delay:0.60s">
+<text x="240" y="254" class="mono" font-size="10.5" fill="#8C93B0">FOLLOWERS</text>
+<text x="240" y="298" class="serif" font-size="40" fill="#F5ECDC">9</text>
+<line x1="240" y1="312" x2="390" y2="312" stroke="#2A3566"/>
+</g>
+<text x="460" y="58" class="mono" font-size="11" fill="#8C93B0">CONTRIBUTION TOPOGRAPHY · 52 WEEKS</text>
+<line x1="460" y1="96.0" x2="850" y2="96.0" stroke="#2A3566" stroke-dasharray="2 5"/>
+<line x1="460" y1="151.3" x2="850" y2="151.3" stroke="#2A3566" stroke-dasharray="2 5"/>
+<line x1="460" y1="206.7" x2="850" y2="206.7" stroke="#2A3566" stroke-dasharray="2 5"/>
+<line x1="460" y1="262.0" x2="850" y2="262.0" stroke="#2A3566" stroke-dasharray="2 5"/>
+<path d="M460.0,262.0 C463.8,262.0 463.8,262.0 467.5,262.0 C471.3,262.0 471.3,259.4 475.0,259.4 C478.8,259.4 478.8,262.0 482.5,262.0 C486.3,262.0 486.3,262.0 490.0,262.0 C493.8,262.0 493.8,262.0 497.5,262.0 C501.3,262.0 501.3,262.0 505.0,262.0 C508.8,262.0 508.8,241.6 512.5,241.6 C516.3,241.6 516.3,262.0 520.0,262.0 C523.8,262.0 523.8,262.0 527.5,262.0 C531.3,262.0 531.3,262.0 535.0,262.0 C538.8,262.0 538.8,256.9 542.5,256.9 C546.3,256.9 546.3,262.0 550.0,262.0 C553.8,262.0 553.8,249.2 557.5,249.2 C561.3,249.2 561.3,262.0 565.0,262.0 C568.8,262.0 568.8,262.0 572.5,262.0 C576.3,262.0 576.3,262.0 580.0,262.0 C583.8,262.0 583.8,262.0 587.5,262.0 C591.3,262.0 591.3,262.0 595.0,262.0 C598.8,262.0 598.8,262.0 602.5,262.0 C606.3,262.0 606.3,262.0 610.0,262.0 C613.8,262.0 613.8,251.8 617.5,251.8 C621.3,251.8 621.3,262.0 625.0,262.0 C628.8,262.0 628.8,262.0 632.5,262.0 C636.3,262.0 636.3,262.0 640.0,262.0 C643.8,262.0 643.8,262.0 647.5,262.0 C651.3,262.0 651.3,262.0 655.0,262.0 C658.8,262.0 658.8,262.0 662.5,262.0 C666.3,262.0 666.3,262.0 670.0,262.0 C673.8,262.0 673.8,262.0 677.5,262.0 C681.3,262.0 681.3,244.1 685.0,244.1 C688.8,244.1 688.8,203.3 692.5,203.3 C696.3,203.3 696.3,221.1 700.0,221.1 C703.8,221.1 703.8,233.9 707.5,233.9 C711.3,233.9 711.3,221.1 715.0,221.1 C718.8,221.1 718.8,108.8 722.5,108.8 C726.3,108.8 726.3,262.0 730.0,262.0 C733.8,262.0 733.8,262.0 737.5,262.0 C741.3,262.0 741.3,259.4 745.0,259.4 C748.8,259.4 748.8,262.0 752.5,262.0 C756.3,262.0 756.3,262.0 760.0,262.0 C763.8,262.0 763.8,262.0 767.5,262.0 C771.3,262.0 771.3,262.0 775.0,262.0 C778.8,262.0 778.8,262.0 782.5,262.0 C786.3,262.0 786.3,254.3 790.0,254.3 C793.8,254.3 793.8,262.0 797.5,262.0 C801.3,262.0 801.3,262.0 805.0,262.0 C808.8,262.0 808.8,244.1 812.5,244.1 C816.3,244.1 816.3,256.9 820.0,256.9 C823.8,256.9 823.8,262.0 827.5,262.0 C831.3,262.0 831.3,254.3 835.0,254.3 C838.8,254.3 838.8,121.5 842.5,121.5 C846.3,121.5 846.3,96.0 850.0,96.0 L850,262 L460,262Z" fill="url(#ar)" class="fade"/>
+<path d="M460.0,262.0 C463.8,262.0 463.8,262.0 467.5,262.0 C471.3,262.0 471.3,259.4 475.0,259.4 C478.8,259.4 478.8,262.0 482.5,262.0 C486.3,262.0 486.3,262.0 490.0,262.0 C493.8,262.0 493.8,262.0 497.5,262.0 C501.3,262.0 501.3,262.0 505.0,262.0 C508.8,262.0 508.8,241.6 512.5,241.6 C516.3,241.6 516.3,262.0 520.0,262.0 C523.8,262.0 523.8,262.0 527.5,262.0 C531.3,262.0 531.3,262.0 535.0,262.0 C538.8,262.0 538.8,256.9 542.5,256.9 C546.3,256.9 546.3,262.0 550.0,262.0 C553.8,262.0 553.8,249.2 557.5,249.2 C561.3,249.2 561.3,262.0 565.0,262.0 C568.8,262.0 568.8,262.0 572.5,262.0 C576.3,262.0 576.3,262.0 580.0,262.0 C583.8,262.0 583.8,262.0 587.5,262.0 C591.3,262.0 591.3,262.0 595.0,262.0 C598.8,262.0 598.8,262.0 602.5,262.0 C606.3,262.0 606.3,262.0 610.0,262.0 C613.8,262.0 613.8,251.8 617.5,251.8 C621.3,251.8 621.3,262.0 625.0,262.0 C628.8,262.0 628.8,262.0 632.5,262.0 C636.3,262.0 636.3,262.0 640.0,262.0 C643.8,262.0 643.8,262.0 647.5,262.0 C651.3,262.0 651.3,262.0 655.0,262.0 C658.8,262.0 658.8,262.0 662.5,262.0 C666.3,262.0 666.3,262.0 670.0,262.0 C673.8,262.0 673.8,262.0 677.5,262.0 C681.3,262.0 681.3,244.1 685.0,244.1 C688.8,244.1 688.8,203.3 692.5,203.3 C696.3,203.3 696.3,221.1 700.0,221.1 C703.8,221.1 703.8,233.9 707.5,233.9 C711.3,233.9 711.3,221.1 715.0,221.1 C718.8,221.1 718.8,108.8 722.5,108.8 C726.3,108.8 726.3,262.0 730.0,262.0 C733.8,262.0 733.8,262.0 737.5,262.0 C741.3,262.0 741.3,259.4 745.0,259.4 C748.8,259.4 748.8,262.0 752.5,262.0 C756.3,262.0 756.3,262.0 760.0,262.0 C763.8,262.0 763.8,262.0 767.5,262.0 C771.3,262.0 771.3,262.0 775.0,262.0 C778.8,262.0 778.8,262.0 782.5,262.0 C786.3,262.0 786.3,254.3 790.0,254.3 C793.8,254.3 793.8,262.0 797.5,262.0 C801.3,262.0 801.3,262.0 805.0,262.0 C808.8,262.0 808.8,244.1 812.5,244.1 C816.3,244.1 816.3,256.9 820.0,256.9 C823.8,256.9 823.8,262.0 827.5,262.0 C831.3,262.0 831.3,254.3 835.0,254.3 C838.8,254.3 838.8,121.5 842.5,121.5 C846.3,121.5 846.3,96.0 850.0,96.0" fill="none" stroke="#E9B44C" stroke-width="2" class="draw"/>
+<g class="fade"><circle cx="850.0" cy="96.0" r="4" fill="#E4572E"/><circle cx="850.0" cy="96.0" r="4" fill="none" stroke="#E4572E" class="ping"/>
+<text x="846.0" y="82.0" class="mono" font-size="10" fill="#E4572E" text-anchor="end">PEAK · 65</text></g>
+<text x="460" y="288" class="mono" font-size="10" fill="#8C93B0">12 MO AGO</text>
+<text x="850" y="288" class="mono" font-size="10" fill="#E9B44C" text-anchor="end">NOW</text>
+<text x="890" y="58" class="mono" font-size="11" fill="#8C93B0">LANGUAGES</text>
+<g class="grow" style="transform-origin:890px 84px">
+<rect x="890.0" y="78" width="204.8" height="12" rx="3" fill="#E9B44C"/>
+<rect x="1096.8" y="78" width="15.5" height="12" rx="3" fill="#2EC4B6"/>
+<rect x="1114.3" y="78" width="11.0" height="12" rx="3" fill="#E4572E"/>
+<rect x="1127.2" y="78" width="9.7" height="12" rx="3" fill="#9B87FF"/>
+<rect x="1138.9" y="78" width="8.3" height="12" rx="3" fill="#F5ECDC"/>
+<rect x="1149.3" y="78" width="3.7" height="12" rx="3" fill="#8C93B0"/>
+</g>
+<g class="rise" style="animation-delay:0.40s"><circle cx="896" cy="124" r="5" fill="#E9B44C"/>
+<text x="912" y="128" class="sans" font-size="14" fill="#F5ECDC">TypeScript</text>
+<text x="1160" y="128" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">76.6%</text></g>
+<g class="rise" style="animation-delay:0.50s"><circle cx="896" cy="151" r="5" fill="#2EC4B6"/>
+<text x="912" y="155" class="sans" font-size="14" fill="#F5ECDC">HTML</text>
+<text x="1160" y="155" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">6.5%</text></g>
+<g class="rise" style="animation-delay:0.60s"><circle cx="896" cy="178" r="5" fill="#E4572E"/>
+<text x="912" y="182" class="sans" font-size="14" fill="#F5ECDC">Kotlin</text>
+<text x="1160" y="182" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">4.8%</text></g>
+<g class="rise" style="animation-delay:0.70s"><circle cx="896" cy="205" r="5" fill="#9B87FF"/>
+<text x="912" y="209" class="sans" font-size="14" fill="#F5ECDC">Python</text>
+<text x="1160" y="209" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">4.3%</text></g>
+<g class="rise" style="animation-delay:0.80s"><circle cx="896" cy="232" r="5" fill="#F5ECDC"/>
+<text x="912" y="236" class="sans" font-size="14" fill="#F5ECDC">CSS</text>
+<text x="1160" y="236" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">3.8%</text></g>
+<g class="rise" style="animation-delay:0.90s"><circle cx="896" cy="259" r="5" fill="#8C93B0"/>
+<text x="912" y="263" class="sans" font-size="14" fill="#F5ECDC">Dart</text>
+<text x="1160" y="263" class="mono" font-size="11" fill="#8C93B0" text-anchor="end">2.1%</text></g>
+<text x="1160" y="312" class="mono" font-size="9.5" fill="#8C93B0" text-anchor="end">@arg0506 · UPDATED 2026-11-28</text>
+</svg>
